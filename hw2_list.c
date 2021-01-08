@@ -1,4 +1,4 @@
-//Alexander Rollison 1001681800
+//Alexander Rollison
 //Credit some of the code to Donna French and Alexandra Stefan.
 #include <stdio.h>
 #include <stdlib.h>
